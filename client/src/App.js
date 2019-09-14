@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
-import logo from './logo.svg';
+import ButtonPanel from './components/ButtonPanel';
+import DataDisplay from './components/DataDisplay';
 import './App.css';
 
 function App() {
