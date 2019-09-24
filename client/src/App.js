@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import ButtonPanel from './components/ButtonPanel';
-import DataDisplay from './components/DataDisplay';
+import 
 import './App.css';
 
 class App extends React.Component {
